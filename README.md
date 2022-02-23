@@ -3,8 +3,8 @@
     <img width="150" src="/public/images/qinglong.png">
   </a>
 </p>
-
-<h1 align="center">青龙2.9.1</h1>
+# qinglong后端2.9.1, 未分离的。
+<h1 align="center">青龙2.9.1 </h1>
 
 <div align="center">
 
